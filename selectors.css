@@ -1,0 +1,14 @@
+.dist{
+    color:blue;
+}
+.dust{
+    text-align: center;
+}
+#mist{
+    color:red;
+    text-align: center;
+    font-size: 2em;
+}
+h3,h4,ul,ol{
+    color:blueviolet;
+}
